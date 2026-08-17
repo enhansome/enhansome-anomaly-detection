@@ -169,7 +169,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 ### Unsupervised Anomaly Segmentation target
 
-* PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization  | **\[ICPR IML Workshop' 20]**| [`[pdf]`](https://arxiv.org/abs/2011.08785) | [`[code]`](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master) ⭐ 488 | 🐛 26 | 🌐 Python | 📅 2023-11-29
+* PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization  | **\[ICPR IML Workshop' 20]**| [`[pdf]`](https://arxiv.org/abs/2011.08785) | [`[code]`](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master) ⭐ 489 | 🐛 26 | 🌐 Python | 📅 2023-11-29
 * Sub-Image Anomaly Detection with Deep Pyramid Correspondences  |  **\[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2005.02357.pdf) | [`[code]`](https://github.com/byungjae89/SPADE-pytorch) ⭐ 255 | 🐛 20 | 🌐 Python | 📅 2022-12-27
 * Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **\[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2006.16067.pdf) | [`[code]`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch) ⭐ 254 | 🐛 20 | 🌐 Python | 📅 2020-10-19
 * Explainable Deep One-Class Classification  | **\[ICLR' 21]**| [`[pdf]`](https://openreview.net/forum?id=A5VV3UyIQz) | [`[code]`](https://github.com/liznerski/fcdd) ⭐ 237 | 🐛 6 | 🌐 Python | 📅 2023-08-30
@@ -210,4 +210,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
