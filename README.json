@@ -164,7 +164,7 @@
                 "last_commit": "2022-11-25T09:57:47Z",
                 "owner": "ORippler",
                 "repo": "gaussian-ad-mvtec",
-                "stars": 105
+                "stars": 104
               }
             },
             {
@@ -328,7 +328,7 @@
                 "last_commit": "2023-11-29T06:58:54Z",
                 "owner": "xiahaifeng1995",
                 "repo": "PaDiM-Anomaly-Detection-Localization-master",
-                "stars": 489
+                "stars": 488
               }
             },
             {
@@ -358,7 +358,7 @@
                 "last_commit": "2020-10-19T08:51:51Z",
                 "owner": "nuclearboy95",
                 "repo": "Anomaly-Detection-PatchSVDD-PyTorch",
-                "stars": 254
+                "stars": 253
               }
             },
             {
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:05:41.608Z",
+    "last_updated": "2026-08-22T07:54:11.698Z",
     "original_repository": "hoya012/awesome-anomaly-detection",
     "original_repository_id": 146555808,
     "original_repository_sha": "158dcb3bacfe6358a2f76149944ffd471ead275e",
