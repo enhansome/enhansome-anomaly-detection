@@ -1,6 +1,6 @@
 # awesome anomaly detection with stars
 
-A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) ⭐ 128 | 🐛 2 | 📅 2020-09-05 and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,154 | 🐛 2 | 📅 2024-06-11.
+A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) ⭐ 128 | 🐛 2 | 📅 2020-09-05 and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,153 | 🐛 2 | 📅 2024-06-11.
 
 *Last updated: 2021/11/22*
 
@@ -210,4 +210,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
