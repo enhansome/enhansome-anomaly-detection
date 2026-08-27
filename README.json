@@ -51,7 +51,7 @@
             "last_commit": "2025-10-29T03:27:37Z",
             "owner": "tianyu0207",
             "repo": "RTFM",
-            "stars": 346
+            "stars": 347
           }
         },
         {
@@ -416,9 +416,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:07:52.834Z",
-    "original_repository": "hoya012/awesome-anomaly-detection",
-    "original_repository_id": 146555808,
+    "last_updated": "2026-08-27T11:20:12.603Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 146555808,
+      "language": null,
+      "last_commit": "2022-09-20T09:33:40Z",
+      "owner": "hoya012",
+      "repo": "awesome-anomaly-detection",
+      "stars": 2901
+    },
     "original_repository_sha": "158dcb3bacfe6358a2f76149944ffd471ead275e",
     "enhanced_repository": "enhansome/enhansome-anomaly-detection",
     "enhanced_repository_description": null,
