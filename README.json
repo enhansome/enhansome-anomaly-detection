@@ -16,7 +16,8 @@
             "owner": "Stream-AD",
             "repo": "MIDAS",
             "stars": 777
-          }
+          },
+          "first_seen": "2026-08-28T19:31:20.409Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "KDD-OpenSource",
             "repo": "DeepADoTS",
             "stars": 599
-          }
+          },
+          "first_seen": "2026-08-28T19:31:20.409Z"
         }
       ],
       "title": "Time-series anomaly detection (need to survey more..)"
@@ -52,7 +54,8 @@
             "owner": "tianyu0207",
             "repo": "RTFM",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-28T19:31:20.409Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "yuguangnudt",
             "repo": "VEC_VAD",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T19:31:20.409Z"
         }
       ],
       "title": "Video-level anomaly detection"
@@ -89,8 +93,9 @@
                 "last_commit": "2023-10-19T11:01:02Z",
                 "owner": "alinlab",
                 "repo": "CSI",
-                "stars": 285
-              }
+                "stars": 286
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -105,7 +110,8 @@
                 "owner": "hendrycks",
                 "repo": "ss-ood",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -119,8 +125,9 @@
                 "last_commit": "2021-01-15T11:22:06Z",
                 "owner": "khalooei",
                 "repo": "ALOCC-CVPR2018",
-                "stars": 225
-              }
+                "stars": 224
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -135,7 +142,8 @@
                 "owner": "PramuPerera",
                 "repo": "DeepOneClass",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -150,7 +158,8 @@
                 "owner": "podgorskiy",
                 "repo": "GPND",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -165,7 +174,8 @@
                 "owner": "ORippler",
                 "repo": "gaussian-ad-mvtec",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -180,7 +190,8 @@
                 "owner": "rohban-lab",
                 "repo": "Knowledge_Distillation_AD",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -195,7 +206,8 @@
                 "owner": "tianyu0207",
                 "repo": "IGD",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -210,7 +222,8 @@
                 "owner": "demonzyj56",
                 "repo": "E3Outlier",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -225,7 +238,8 @@
                 "owner": "archon159",
                 "repo": "elsa",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             }
           ],
           "description": null,
@@ -246,8 +260,9 @@
                 "last_commit": "2023-10-19T11:01:02Z",
                 "owner": "alinlab",
                 "repo": "CSI",
-                "stars": 285
-              }
+                "stars": 286
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -262,7 +277,8 @@
                 "owner": "inspire-group",
                 "repo": "SSD",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -277,7 +293,8 @@
                 "owner": "PolinaKirichenko",
                 "repo": "flows_ood",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -292,7 +309,8 @@
                 "owner": "nazim1021",
                 "repo": "OOD-detection-using-OECC",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -307,7 +325,8 @@
                 "owner": "mlindsk",
                 "repo": "molic",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             }
           ],
           "description": null,
@@ -329,7 +348,8 @@
                 "owner": "xiahaifeng1995",
                 "repo": "PaDiM-Anomaly-Detection-Localization-master",
                 "stars": 488
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -344,7 +364,8 @@
                 "owner": "byungjae89",
                 "repo": "SPADE-pytorch",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -359,7 +380,8 @@
                 "owner": "nuclearboy95",
                 "repo": "Anomaly-Detection-PatchSVDD-PyTorch",
                 "stars": 253
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -374,7 +396,8 @@
                 "owner": "liznerski",
                 "repo": "fcdd",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -389,7 +412,8 @@
                 "owner": "YoungGod",
                 "repo": "DFR",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             },
             {
               "node_type": "item",
@@ -404,7 +428,8 @@
                 "owner": "tianyu0207",
                 "repo": "CCD",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T19:31:20.409Z"
             }
           ],
           "description": null,
@@ -416,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:21:51.516Z",
+    "last_updated": "2026-08-28T19:31:20.409Z",
     "original_repository_info": {
       "archived": false,
       "id": 146555808,

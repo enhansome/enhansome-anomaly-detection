@@ -86,9 +86,9 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 ### One Class (Anomaly) Classification target
 
-* CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **\[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI) ⭐ 285 | 🐛 12 | 🌐 Python | 📅 2023-10-19
+* CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **\[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI) ⭐ 286 | 🐛 12 | 🌐 Python | 📅 2023-10-19
 * Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty | **\[NeurIPS' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.12340) [`[code]`](https://github.com/hendrycks/ss-ood) ⭐ 269 | 🐛 3 | 🌐 Python | 📅 2021-04-29
-* \[**ALOCC**]Adversarially Learned One-Class Classifier for Novelty Detection  | **\[CVPR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.09088.pdf) [`[code]`](https://github.com/khalooei/ALOCC-CVPR2018) ⭐ 225 | 🐛 0 | 🌐 Python | 📅 2021-01-15
+* \[**ALOCC**]Adversarially Learned One-Class Classifier for Novelty Detection  | **\[CVPR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.09088.pdf) [`[code]`](https://github.com/khalooei/ALOCC-CVPR2018) ⭐ 224 | 🐛 0 | 🌐 Python | 📅 2021-01-15
 * Learning Deep Features for One-Class Classification | **\[arXiv' 18]** |   [`[pdf]`](https://arxiv.org/pdf/1801.05365.pdf) [`[code]`](https://github.com/PramuPerera/DeepOneClass) ⭐ 196 | 🐛 5 | 🌐 Python | 📅 2019-03-26
 * Generative Probabilistic Novelty Detection with Adversarial Autoencoders | **\[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders.pdf) [`[code]`](https://github.com/podgorskiy/GPND) ⭐ 130 | 🐛 7 | 🌐 Python | 📅 2020-12-07
 * Modeling the distribution of normal data in pre-trained deep features for anomaly detection | **\[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2005.14140) | [`[code]`](https://github.com/ORippler/gaussian-ad-mvtec) ⚠️ Archived
@@ -139,7 +139,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 ### Out-of-Distribution(OOD) Detection target
 
-* CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **\[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI) ⭐ 285 | 🐛 12 | 🌐 Python | 📅 2023-10-19
+* CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **\[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI) ⭐ 286 | 🐛 12 | 🌐 Python | 📅 2023-10-19
 * SSD: A Unified Framework for Self-Supervised Outlier Detection | **\[ICLR' 21]**  [`[pdf]`](https://openreview.net/forum?id=v5gjXpmR8J) | [`[code]`](https://github.com/inspire-group/SSD) ⭐ 139 | 🐛 2 | 🌐 Python | 📅 2021-07-16
 * Why Normalizing Flows Fail to Detect Out-of-Distribution Data | **\[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2006.08545.pdf) | [`[code]`](https://github.com/PolinaKirichenko/flows_ood) ⭐ 87 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2021-11-02
 * Outlier Exposure with Confidence Control for Out-of-Distribution Detection | **\[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.03509v2) [`[code]`](https://github.com/nazim1021/OOD-detection-using-OECC) ⭐ 70 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-03-13
@@ -210,4 +210,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
