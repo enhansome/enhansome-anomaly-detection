@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anomaly Detection on Dynamic (time-evolving) Graphs in Real-time and Streaming manner. Detecting intrusions (DoS and DDoS attacks), frauds, fake rating anomalies.",
+            "homepage": null,
             "id": 216963360,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-10T05:43:58Z",
+            "open_issues": 3,
             "owner": "Stream-AD",
             "repo": "MIDAS",
-            "stars": 777
+            "stars": 777,
+            "topics": [
+              "aaai2020",
+              "anomaly-detection",
+              "denial-of-service",
+              "fraud-detection",
+              "intrusion-detection"
+            ]
           },
           "first_seen": "2026-08-28T19:31:20.409Z"
         },
@@ -26,12 +37,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of the paper \"A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series\".",
+            "homepage": null,
             "id": 130369068,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-13T17:23:00Z",
+            "open_issues": 13,
             "owner": "KDD-OpenSource",
             "repo": "DeepADoTS",
-            "stars": 599
+            "stars": 599,
+            "topics": [
+              "anomaly-detection",
+              "deep-learning",
+              "pytorch",
+              "tensorflow",
+              "time-series",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T19:31:20.409Z"
         }
@@ -48,12 +71,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for 'Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning' [ICCV 2021]",
+            "homepage": null,
             "id": 332730828,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-29T03:27:37Z",
+            "open_issues": 43,
             "owner": "tianyu0207",
             "repo": "RTFM",
-            "stars": 347
+            "stars": 347,
+            "topics": [
+              "anomaly-detection",
+              "deep-learning",
+              "pytorch",
+              "video-anomaly-detection"
+            ]
           },
           "first_seen": "2026-08-28T19:31:20.409Z"
         },
@@ -64,12 +97,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events. Oral paper in ACM Multimedia 2020.",
+            "homepage": "https://dl.acm.org/doi/10.1145/3394171.3413973",
             "id": 266916232,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-24T07:23:38Z",
+            "open_issues": 9,
             "owner": "yuguangnudt",
             "repo": "VEC_VAD",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "media-content-interpretation",
+              "video-anomaly-detection"
+            ]
           },
           "first_seen": "2026-08-28T19:31:20.409Z"
         }
@@ -88,12 +129,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances (NeurIPS 2020)",
+                "homepage": "https://arxiv.org/abs/2007.08176",
                 "id": 280091942,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-19T11:01:02Z",
+                "open_issues": 12,
                 "owner": "alinlab",
                 "repo": "CSI",
-                "stars": 286
+                "stars": 286,
+                "topics": [
+                  "anomaly-detection",
+                  "contrastive-learning",
+                  "novelty-detection",
+                  "out-of-distribution-detection"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -104,12 +155,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-Supervised Learning for OOD Detection (NeurIPS 2019)",
+                "homepage": null,
                 "id": 191080893,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-29T17:42:13Z",
+                "open_issues": 3,
                 "owner": "hendrycks",
                 "repo": "ss-ood",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "ml-safety",
+                  "out-of-distribution-detection",
+                  "robustness",
+                  "self-supervised",
+                  "self-supervised-learning",
+                  "uncertainty"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -120,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adversarially Learned One-Class Classifier for Novelty Detection (ALOCC)",
+                "homepage": null,
                 "id": 125463468,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-01-15T11:22:06Z",
+                "open_issues": 0,
                 "owner": "khalooei",
                 "repo": "ALOCC-CVPR2018",
-                "stars": 224
+                "stars": 224,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -136,12 +204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning based one class classification code targeting one class image classification. Tests carried out on Abnormal image detection, Novel image detection and Active Authentication reported state of the art results.",
+                "homepage": null,
                 "id": 117301296,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2019-03-26T20:34:10Z",
+                "open_issues": 5,
                 "owner": "PramuPerera",
                 "repo": "DeepOneClass",
-                "stars": 196
+                "stars": 196,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -152,12 +225,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generative Probabilistic Novelty Detection with Adversarial Autoencoders",
+                "homepage": null,
                 "id": 133181863,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-12-07T03:26:08Z",
+                "open_issues": 7,
                 "owner": "podgorskiy",
                 "repo": "GPND",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "aae",
+                  "adversarial-autoencoders",
+                  "adversarial-learning",
+                  "anomaly-detection",
+                  "autoencoder",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "deep-novelty-detection",
+                  "gan",
+                  "generative-adversarial-network",
+                  "machine-learning",
+                  "mnist",
+                  "nips-2018",
+                  "novelty-detection",
+                  "novelty-detector",
+                  "pdf",
+                  "probability",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -168,12 +265,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code underlying our publication \"Modeling the Distribution of Normal Data in Pre-Trained Deep Features for Anomaly Detection\" at ICPR2020",
+                "homepage": null,
                 "id": 304551576,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-11-25T09:57:47Z",
+                "open_issues": 0,
                 "owner": "ORippler",
                 "repo": "gaussian-ad-mvtec",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "anomaly-detection",
+                  "deep-anomaly-detection",
+                  "mvtec",
+                  "mvtec-ad",
+                  "one-class-classification",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -184,12 +293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 343689351,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-15T11:03:36Z",
+                "open_issues": 10,
                 "owner": "rohban-lab",
                 "repo": "Knowledge_Distillation_AD",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -200,12 +314,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for 'Deep One-Class Classification via Interpolated Gaussian Descriptor' [AAAI 2022 Oral]",
+                "homepage": null,
                 "id": 332432974,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-29T03:24:52Z",
+                "open_issues": 5,
                 "owner": "tianyu0207",
                 "repo": "IGD",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "anomaly-detection",
+                  "anomaly-segmentation",
+                  "deep-learning",
+                  "one-class-classification"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -216,12 +340,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "E3Outlier: Effective End-to-end Unsupervised Outlier Detection",
+                "homepage": "https://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network",
                 "id": 206226341,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-13T15:12:02Z",
+                "open_issues": 1,
                 "owner": "demonzyj56",
                 "repo": "E3Outlier",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -232,12 +361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 419005039,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-19T01:57:18Z",
+                "open_issues": 0,
                 "owner": "archon159",
                 "repo": "elsa",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             }
@@ -255,12 +389,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances (NeurIPS 2020)",
+                "homepage": "https://arxiv.org/abs/2007.08176",
                 "id": 280091942,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-19T11:01:02Z",
+                "open_issues": 12,
                 "owner": "alinlab",
                 "repo": "CSI",
-                "stars": 286
+                "stars": 286,
+                "topics": [
+                  "anomaly-detection",
+                  "contrastive-learning",
+                  "novelty-detection",
+                  "out-of-distribution-detection"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -271,12 +415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SSD: A Unified Framework for Self-Supervised Outlier Detection [ICLR 2021]",
+                "homepage": "https://openreview.net/forum?id=v5gjXpmR8J",
                 "id": 306966337,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-16T05:08:14Z",
+                "open_issues": 2,
                 "owner": "inspire-group",
                 "repo": "SSD",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -287,12 +436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 272485835,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-11-02T20:56:37Z",
+                "open_issues": 9,
                 "owner": "PolinaKirichenko",
                 "repo": "flows_ood",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -303,12 +457,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Outlier Exposure with Confidence Control for Out-of-Distribution Detection",
+                "homepage": null,
                 "id": 227874183,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-03-13T18:58:53Z",
+                "open_issues": 1,
                 "owner": "nazim1021",
                 "repo": "OOD-detection-using-OECC",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "anomaly-detection",
+                  "calibration",
+                  "confidence-control",
+                  "deep-learning",
+                  "in-distribution",
+                  "novelty-detection",
+                  "out-of-distribution-detection",
+                  "outlier-exposure",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -319,12 +488,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multivariate Outlierdetection In Contingency Tables",
+                "homepage": null,
                 "id": 177729633,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-04T07:10:54Z",
+                "open_issues": 0,
                 "owner": "mlindsk",
                 "repo": "molic",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "categorical-data",
+                  "contingency-tables",
+                  "decomposable-graphical-models",
+                  "high-dimensional-data",
+                  "outlier-detection"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             }
@@ -342,12 +522,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an unofficial implementation of the paper “PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization”.",
+                "homepage": null,
                 "id": 315909477,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-29T06:58:54Z",
+                "open_issues": 26,
                 "owner": "xiahaifeng1995",
                 "repo": "PaDiM-Anomaly-Detection-Localization-master",
-                "stars": 488
+                "stars": 488,
+                "topics": [
+                  "anomaly-detection",
+                  "anomaly-localization",
+                  "mvtec",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -358,12 +548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of \"Sub-Image Anomaly Detection with Deep Pyramid Correspondences\"",
+                "homepage": null,
                 "id": 279765802,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-27T13:44:07Z",
+                "open_issues": 20,
                 "owner": "byungjae89",
                 "repo": "SPADE-pytorch",
-                "stars": 255
+                "stars": 255,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -374,12 +569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 279217588,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-10-19T08:51:51Z",
+                "open_issues": 20,
                 "owner": "nuclearboy95",
                 "repo": "Anomaly-Detection-PatchSVDD-PyTorch",
-                "stars": 253
+                "stars": 253,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -390,12 +590,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for the Explainable Deep One-Class Classification paper",
+                "homepage": null,
                 "id": 277343717,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-30T11:50:23Z",
+                "open_issues": 6,
                 "owner": "liznerski",
                 "repo": "fcdd",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "anomaly-detection",
+                  "deep-anomaly-detection",
+                  "deep-learning",
+                  "explainable-deepneuralnetwork",
+                  "explanations",
+                  "machine-learning",
+                  "mvtec-ad",
+                  "one-class-learning",
+                  "python",
+                  "pytorch",
+                  "xai"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -406,12 +623,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project: Unsupervised Anomaly Segmentation via Deep Feature Reconstruction",
+                "homepage": null,
                 "id": 272851714,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-04T16:12:48Z",
+                "open_issues": 9,
                 "owner": "YoungGod",
                 "repo": "DFR",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "anomalies",
+                  "anomaly-detection",
+                  "anomaly-segmentation",
+                  "feature-reconstruction"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             },
@@ -422,12 +649,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for 'Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images'  [MICCAI 2021]",
+                "homepage": null,
                 "id": 344658339,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-29T03:24:10Z",
+                "open_issues": 0,
                 "owner": "tianyu0207",
                 "repo": "CCD",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "anomaly-detection",
+                  "deep-learning",
+                  "medical-image-analysis",
+                  "pytorch",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
             }
@@ -441,15 +679,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:31:20.409Z",
+    "last_updated": "2026-08-29T04:23:21.965Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome anomaly detection resources",
+      "homepage": null,
       "id": 146555808,
       "language": null,
+      "license": null,
       "last_commit": "2022-09-20T09:33:40Z",
+      "open_issues": 9,
       "owner": "hoya012",
       "repo": "awesome-anomaly-detection",
-      "stars": 2901
+      "stars": 2901,
+      "topics": [
+        "anomaly",
+        "anomaly-detection",
+        "anomalydetection",
+        "awesome",
+        "awesome-anomaly-detection",
+        "awesomeanomalydetection",
+        "deep-learning",
+        "machine-learning",
+        "machinelearning"
+      ]
     },
     "original_repository_sha": "158dcb3bacfe6358a2f76149944ffd471ead275e",
     "enhanced_repository": "enhansome/enhansome-anomaly-detection",
