@@ -1,6 +1,6 @@
 # awesome anomaly detection with stars
 
-A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) ⭐ 128 | 🐛 2 | 📅 2020-09-05 and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,154 | 🐛 2 | 📅 2024-06-11.
+A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) ⭐ 128 | 🐛 2 | 📅 2020-09-05 and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,155 | 🐛 2 | 📅 2024-06-11.
 
 *Last updated: 2021/11/22*
 
@@ -62,8 +62,8 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 ## Video-level anomaly detection
 
-* Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **\[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM) ⭐ 348 | 🐛 43 | 🌐 Python | 📅 2025-10-29
-* Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **\[ACM MM' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11988.pdf) | [`[code]`](https://github.com/yuguangnudt/VEC_VAD) ⭐ 98 | 🐛 9 | 🌐 Python | 📅 2023-03-24
+* Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **\[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM) ⭐ 347 | 🐛 43 | 🌐 Python | 📅 2025-10-29
+* Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **\[ACM MM' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11988.pdf) | [`[code]`](https://github.com/yuguangnudt/VEC_VAD) ⭐ 97 | 🐛 9 | 🌐 Python | 📅 2023-03-24
 * Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | **\[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
 * Real-world Anomaly Detection in Surveillance Videos | **\[arXiv' 18]** | [`[pdf]`](https://arxiv.org/abs/1801.04264) [`[project page]`](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/)
 * Unsupervised Anomaly Detection for Traffic Surveillance Based on Background Modeling | **\[CVPR Workshop' 18]** | [`[pdf]`](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wei_Unsupervised_Anomaly_Detection_CVPR_2018_paper.pdf)
@@ -206,8 +206,8 @@ If you have any suggestions about papers, feel free to mail me :)
 
 * [e-mail](mailto:Hoseong.Lee@cognex.com)
 * [blog](https://hoya012.github.io/)
-* [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls) ⭐ 2,901 | 🐛 9 | 📅 2022-09-20
+* [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls) ⭐ 2,902 | 🐛 9 | 📅 2022-09-20
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
