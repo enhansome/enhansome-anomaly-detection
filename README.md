@@ -206,8 +206,8 @@ If you have any suggestions about papers, feel free to mail me :)
 
 * [e-mail](mailto:Hoseong.Lee@cognex.com)
 * [blog](https://hoya012.github.io/)
-* [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls) ⭐ 2,902 | 🐛 9 | 📅 2022-09-20
+* [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls) ⭐ 2,904 | 🐛 9 | 📅 2022-09-20
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
