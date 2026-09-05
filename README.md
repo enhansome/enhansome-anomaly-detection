@@ -1,6 +1,6 @@
 # awesome anomaly detection with stars
 
-A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) ⭐ 128 | 🐛 2 | 📅 2020-09-05 and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,156 | 🐛 2 | 📅 2024-06-11.
+A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) ⭐ 128 | 🐛 2 | 📅 2020-09-05 and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,155 | 🐛 2 | 📅 2024-06-11.
 
 *Last updated: 2021/11/22*
 
@@ -46,7 +46,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 ## Time-series anomaly detection **(need to survey more..)**
 
 * MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **\[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) | [`[code]`](https://github.com/bhatiasiddharth/MIDAS) ⭐ 777 | 🐛 3 | 🌐 C++ | 📅 2024-01-10
-* A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | **Under Review** | [`[code]`](https://github.com/KDD-OpenSource/DeepADoTS) ⭐ 599 | 🐛 13 | 🌐 Python | 📅 2026-04-13
+* A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | **Under Review** | [`[code]`](https://github.com/KDD-OpenSource/DeepADoTS) ⭐ 600 | 🐛 13 | 🌐 Python | 📅 2026-04-13
 * Anomaly Detection of Time Series  | **\[Thesis' 10]** |[`[pdf]`](https://conservancy.umn.edu/bitstream/handle/11299/92985/Cheboli_Deepthi_May2010.pdf?sequence=1)
 * Long short term memory networks for anomaly detection in time series | **\[ESANN' 15]** |[`[pdf]`](https://www.researchgate.net/publication/304782562_Long_Short_Term_Memory_Networks_for_Anomaly_Detection_in_Time_Series)
 * LSTM-Based System-Call Language Modeling and Robust Ensemble Method for Designing Host-Based Intrusion Detection Systems | **\[arXiv' 16]** |   [`[pdf]`](https://arxiv.org/pdf/1611.01726.pdf)
@@ -206,8 +206,8 @@ If you have any suggestions about papers, feel free to mail me :)
 
 * [e-mail](mailto:Hoseong.Lee@cognex.com)
 * [blog](https://hoya012.github.io/)
-* [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls) ⭐ 2,904 | 🐛 9 | 📅 2022-09-20
+* [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls) ⭐ 2,903 | 🐛 9 | 📅 2022-09-20
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
