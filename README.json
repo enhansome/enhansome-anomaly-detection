@@ -80,7 +80,7 @@
             "open_issues": 43,
             "owner": "tianyu0207",
             "repo": "RTFM",
-            "stars": 347,
+            "stars": 348,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -557,7 +557,7 @@
                 "open_issues": 20,
                 "owner": "byungjae89",
                 "repo": "SPADE-pytorch",
-                "stars": 255,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:19:32.138Z",
+    "last_updated": "2026-09-11T12:17:50.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
