@@ -531,7 +531,7 @@
                 "open_issues": 26,
                 "owner": "xiahaifeng1995",
                 "repo": "PaDiM-Anomaly-Detection-Localization-master",
-                "stars": 490,
+                "stars": 491,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-localization",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T14:19:21.210Z",
+    "last_updated": "2026-09-15T12:47:12.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
