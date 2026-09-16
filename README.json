@@ -46,7 +46,7 @@
             "open_issues": 13,
             "owner": "KDD-OpenSource",
             "repo": "DeepADoTS",
-            "stars": 600,
+            "stars": 601,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:47:12.744Z",
+    "last_updated": "2026-09-16T12:42:23.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
