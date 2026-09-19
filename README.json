@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:18:53.737Z",
+    "last_updated": "2026-09-19T11:59:50.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
@@ -691,7 +691,7 @@
       "open_issues": 9,
       "owner": "hoya012",
       "repo": "awesome-anomaly-detection",
-      "stars": 2906,
+      "stars": 2907,
       "topics": [
         "anomaly",
         "anomaly-detection",
