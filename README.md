@@ -62,7 +62,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 ## Video-level anomaly detection
 
-* Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **\[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM) ⭐ 348 | 🐛 43 | 🌐 Python | 📅 2025-10-29
+* Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **\[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM) ⭐ 349 | 🐛 43 | 🌐 Python | 📅 2025-10-29
 * Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **\[ACM MM' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11988.pdf) | [`[code]`](https://github.com/yuguangnudt/VEC_VAD) ⭐ 97 | 🐛 9 | 🌐 Python | 📅 2023-03-24
 * Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | **\[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
 * Real-world Anomaly Detection in Surveillance Videos | **\[arXiv' 18]** | [`[pdf]`](https://arxiv.org/abs/1801.04264) [`[project page]`](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/)
@@ -92,7 +92,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 * Learning Deep Features for One-Class Classification | **\[arXiv' 18]** |   [`[pdf]`](https://arxiv.org/pdf/1801.05365.pdf) [`[code]`](https://github.com/PramuPerera/DeepOneClass) ⭐ 196 | 🐛 5 | 🌐 Python | 📅 2019-03-26
 * Generative Probabilistic Novelty Detection with Adversarial Autoencoders | **\[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders.pdf) [`[code]`](https://github.com/podgorskiy/GPND) ⭐ 131 | 🐛 7 | 🌐 Python | 📅 2020-12-07
 * Modeling the distribution of normal data in pre-trained deep features for anomaly detection | **\[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2005.14140) | [`[code]`](https://github.com/ORippler/gaussian-ad-mvtec) ⚠️ Archived
-* Multiresolution Knowledge Distillation for Anomaly Detection | **\[CVPR' 21]** | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html) | [`[code]`](https://github.com/rohban-lab/Knowledge_Distillation_AD) ⭐ 90 | 🐛 10 | 🌐 Python | 📅 2024-11-15
+* Multiresolution Knowledge Distillation for Anomaly Detection | **\[CVPR' 21]** | [`[pdf]`](https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html) | [`[code]`](https://github.com/rohban-lab/Knowledge_Distillation_AD) ⭐ 91 | 🐛 10 | 🌐 Python | 📅 2024-11-15
 * Deep One-Class Classification via Interpolated Gaussian Descriptor | **\[arXiv' 21]** |  [`[pdf]`](https://arxiv.org/pdf/2101.10043.pdf) | [`[code]`](https://github.com/tianyu0207/IGD) ⭐ 69 | 🐛 5 | 🌐 Python | 📅 2025-10-29
 * Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network | **\[NeurIPS' 19]** | [`[pdf]`](http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf) [`[code]`](https://github.com/demonzyj56/E3Outlier) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2022-07-13
 * Elsa: Energy-based learning for semi-supervised anomaly detection | **\[BMVC' 21]** | [`[pdf]`](https://arxiv.org/pdf/2103.15296.pdf) | [`[code]`](https://github.com/archon159/elsa) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2021-11-19
@@ -206,8 +206,8 @@ If you have any suggestions about papers, feel free to mail me :)
 
 * [e-mail](mailto:Hoseong.Lee@cognex.com)
 * [blog](https://hoya012.github.io/)
-* [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls) ⭐ 2,907 | 🐛 9 | 📅 2022-09-20
+* [pull request](https://github.com/hoya012/awesome-anomaly-detection/pulls) ⭐ 2,909 | 🐛 9 | 📅 2022-09-20
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
