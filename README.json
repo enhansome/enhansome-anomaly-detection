@@ -424,7 +424,7 @@
                 "open_issues": 2,
                 "owner": "inspire-group",
                 "repo": "SSD",
-                "stars": 139,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
@@ -599,7 +599,7 @@
                 "open_issues": 6,
                 "owner": "liznerski",
                 "repo": "fcdd",
-                "stars": 237,
+                "stars": 236,
                 "topics": [
                   "anomaly-detection",
                   "deep-anomaly-detection",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:25:50.466Z",
+    "last_updated": "2026-09-22T12:45:16.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",

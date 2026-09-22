@@ -140,7 +140,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 ### Out-of-Distribution(OOD) Detection target
 
 * CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **\[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI) ⭐ 285 | 🐛 12 | 🌐 Python | 📅 2023-10-19
-* SSD: A Unified Framework for Self-Supervised Outlier Detection | **\[ICLR' 21]**  [`[pdf]`](https://openreview.net/forum?id=v5gjXpmR8J) | [`[code]`](https://github.com/inspire-group/SSD) ⭐ 139 | 🐛 2 | 🌐 Python | 📅 2021-07-16
+* SSD: A Unified Framework for Self-Supervised Outlier Detection | **\[ICLR' 21]**  [`[pdf]`](https://openreview.net/forum?id=v5gjXpmR8J) | [`[code]`](https://github.com/inspire-group/SSD) ⭐ 137 | 🐛 2 | 🌐 Python | 📅 2021-07-16
 * Why Normalizing Flows Fail to Detect Out-of-Distribution Data | **\[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2006.08545.pdf) | [`[code]`](https://github.com/PolinaKirichenko/flows_ood) ⭐ 87 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2021-11-02
 * Outlier Exposure with Confidence Control for Out-of-Distribution Detection | **\[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.03509v2) [`[code]`](https://github.com/nazim1021/OOD-detection-using-OECC) ⭐ 70 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-03-13
 * Outlier Detection in Contingency Tables Using Decomposable Graphical Models | **\[SJS' 19]** |  [`[pdf]`](https://onlinelibrary.wiley.com/doi/epdf/10.1111/sjos.12407) [`[code]`](https://github.com/mlindsk/molic) ⭐ 6 | 🐛 0 | 🌐 R | 📅 2022-03-04
@@ -172,7 +172,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 * PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization  | **\[ICPR IML Workshop' 20]**| [`[pdf]`](https://arxiv.org/abs/2011.08785) | [`[code]`](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master) ⭐ 491 | 🐛 26 | 🌐 Python | 📅 2023-11-29
 * Sub-Image Anomaly Detection with Deep Pyramid Correspondences  |  **\[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2005.02357.pdf) | [`[code]`](https://github.com/byungjae89/SPADE-pytorch) ⭐ 256 | 🐛 20 | 🌐 Python | 📅 2022-12-27
 * Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **\[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2006.16067.pdf) | [`[code]`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch) ⭐ 253 | 🐛 20 | 🌐 Python | 📅 2020-10-19
-* Explainable Deep One-Class Classification  | **\[ICLR' 21]**| [`[pdf]`](https://openreview.net/forum?id=A5VV3UyIQz) | [`[code]`](https://github.com/liznerski/fcdd) ⭐ 237 | 🐛 6 | 🌐 Python | 📅 2023-08-30
+* Explainable Deep One-Class Classification  | **\[ICLR' 21]**| [`[pdf]`](https://openreview.net/forum?id=A5VV3UyIQz) | [`[code]`](https://github.com/liznerski/fcdd) ⭐ 236 | 🐛 6 | 🌐 Python | 📅 2023-08-30
 * Unsupervised anomaly segmentation via deep feature reconstruction  | **\[Neurocomputing' 20]**| [`[pdf]`](https://www.sciencedirect.com/science/article/pii/S0925231220317951) | [`[code]`](https://github.com/YoungGod/DFR) ⭐ 97 | 🐛 9 | 🌐 Python | 📅 2022-07-04
 * Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images  | **\[MICCAI' 21]**| [`[pdf]`](https://arxiv.org/pdf/2103.03423.pdf) | [`[code]`](https://github.com/tianyu0207/CCD) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2025-10-29
 * Anomaly Detection and Localization in Crowded Scenes  | **\[TPAMI' 14]** | [`[pdf]`](http://www.svcl.ucsd.edu/publications/journal/2013/pami.anomaly/pami_anomaly.pdf)
@@ -210,4 +210,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
