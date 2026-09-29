@@ -80,7 +80,7 @@
             "open_issues": 43,
             "owner": "tianyu0207",
             "repo": "RTFM",
-            "stars": 349,
+            "stars": 350,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T15:45:57.203Z",
+    "last_updated": "2026-09-29T14:14:05.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
