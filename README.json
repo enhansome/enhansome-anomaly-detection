@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams | [AAAI' 20] |",
-          "description": null,
+          "description": "Stream-AD/MIDAS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | Under Review |",
-          "description": null,
+          "description": "KDD-OpenSource/DeepADoTS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -67,7 +67,7 @@
         {
           "node_type": "item",
           "title": "Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | [ICCV' 21] |",
-          "description": null,
+          "description": "tianyu0207/RTFM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -93,7 +93,7 @@
         {
           "node_type": "item",
           "title": "Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | [ACM MM' 20] |",
-          "description": null,
+          "description": "yuguangnudt/VEC_VAD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,7 +125,7 @@
             {
               "node_type": "item",
               "title": "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | [NeurIPS' 20] |",
-              "description": null,
+              "description": "alinlab/CSI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -151,7 +151,7 @@
             {
               "node_type": "item",
               "title": "Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty | [NeurIPS' 19] |",
-              "description": null,
+              "description": "hendrycks/ss-ood",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -179,7 +179,7 @@
             {
               "node_type": "item",
               "title": "[ALOCC]Adversarially Learned One-Class Classifier for Novelty Detection | [CVPR' 18] |",
-              "description": null,
+              "description": "khalooei/ALOCC-CVPR2018",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -200,7 +200,7 @@
             {
               "node_type": "item",
               "title": "Learning Deep Features for One-Class Classification | [arXiv' 18] |",
-              "description": null,
+              "description": "PramuPerera/DeepOneClass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,7 +221,7 @@
             {
               "node_type": "item",
               "title": "Generative Probabilistic Novelty Detection with Adversarial Autoencoders | [NIPS' 18] |",
-              "description": null,
+              "description": "podgorskiy/GPND",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -261,7 +261,7 @@
             {
               "node_type": "item",
               "title": "Modeling the distribution of normal data in pre-trained deep features for anomaly detection | [ICPR' 20] |",
-              "description": null,
+              "description": "ORippler/gaussian-ad-mvtec",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -289,7 +289,7 @@
             {
               "node_type": "item",
               "title": "Multiresolution Knowledge Distillation for Anomaly Detection | [CVPR' 21] |",
-              "description": null,
+              "description": "rohban-lab/Knowledge_Distillation_AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -310,7 +310,7 @@
             {
               "node_type": "item",
               "title": "Deep One-Class Classification via Interpolated Gaussian Descriptor | [arXiv' 21] |",
-              "description": null,
+              "description": "tianyu0207/IGD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -336,7 +336,7 @@
             {
               "node_type": "item",
               "title": "Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network | [NeurIPS' 19] |",
-              "description": null,
+              "description": "demonzyj56/E3Outlier",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -357,7 +357,7 @@
             {
               "node_type": "item",
               "title": "Elsa: Energy-based learning for semi-supervised anomaly detection | [BMVC' 21] |",
-              "description": null,
+              "description": "archon159/elsa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -385,7 +385,7 @@
             {
               "node_type": "item",
               "title": "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | [NeurIPS' 20] |",
-              "description": null,
+              "description": "alinlab/CSI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -411,7 +411,7 @@
             {
               "node_type": "item",
               "title": "SSD: A Unified Framework for Self-Supervised Outlier Detection | [ICLR' 21]",
-              "description": null,
+              "description": "inspire-group/SSD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -432,7 +432,7 @@
             {
               "node_type": "item",
               "title": "Why Normalizing Flows Fail to Detect Out-of-Distribution Data | [NeurIPS' 20] |",
-              "description": null,
+              "description": "PolinaKirichenko/flows_ood",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -453,7 +453,7 @@
             {
               "node_type": "item",
               "title": "Outlier Exposure with Confidence Control for Out-of-Distribution Detection | [arXiv' 19] |",
-              "description": null,
+              "description": "nazim1021/OOD-detection-using-OECC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -484,7 +484,7 @@
             {
               "node_type": "item",
               "title": "Outlier Detection in Contingency Tables Using Decomposable Graphical Models | [SJS' 19] |",
-              "description": null,
+              "description": "mlindsk/molic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -518,7 +518,7 @@
             {
               "node_type": "item",
               "title": "PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization | [ICPR IML Workshop' 20]|",
-              "description": null,
+              "description": "xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -544,7 +544,7 @@
             {
               "node_type": "item",
               "title": "Sub-Image Anomaly Detection with Deep Pyramid Correspondences | [arXiv' 20] |",
-              "description": null,
+              "description": "byungjae89/SPADE-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -565,7 +565,7 @@
             {
               "node_type": "item",
               "title": "Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation | [arXiv' 20] |",
-              "description": null,
+              "description": "nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -586,7 +586,7 @@
             {
               "node_type": "item",
               "title": "Explainable Deep One-Class Classification | [ICLR' 21]|",
-              "description": null,
+              "description": "liznerski/fcdd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -619,7 +619,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised anomaly segmentation via deep feature reconstruction | [Neurocomputing' 20]|",
-              "description": null,
+              "description": "YoungGod/DFR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -645,7 +645,7 @@
             {
               "node_type": "item",
               "title": "Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images | [MICCAI' 21]|",
-              "description": null,
+              "description": "tianyu0207/CCD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:00:14.168Z",
+    "last_updated": "2026-10-03T04:32:52.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
