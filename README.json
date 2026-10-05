@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Stream-AD",
             "repo": "MIDAS",
-            "stars": 777,
+            "stars": 776,
             "topics": [
               "aaai2020",
               "anomaly-detection",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:22:28.602Z",
+    "last_updated": "2026-10-05T16:17:35.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
