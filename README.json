@@ -424,7 +424,7 @@
                 "open_issues": 2,
                 "owner": "inspire-group",
                 "repo": "SSD",
-                "stars": 137,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T14:22:34.542Z",
+    "last_updated": "2026-10-07T14:38:46.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
@@ -691,7 +691,7 @@
       "open_issues": 10,
       "owner": "hoya012",
       "repo": "awesome-anomaly-detection",
-      "stars": 2910,
+      "stars": 2911,
       "topics": [
         "anomaly",
         "anomaly-detection",
