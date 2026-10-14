@@ -632,7 +632,7 @@
                 "open_issues": 9,
                 "owner": "YoungGod",
                 "repo": "DFR",
-                "stars": 98,
+                "stars": 99,
                 "topics": [
                   "anomalies",
                   "anomaly-detection",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:12:04.045Z",
+    "last_updated": "2026-10-14T12:58:42.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
