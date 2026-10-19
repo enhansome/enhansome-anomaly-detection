@@ -192,7 +192,7 @@
                 "open_issues": 0,
                 "owner": "khalooei",
                 "repo": "ALOCC-CVPR2018",
-                "stars": 224,
+                "stars": 225,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:08:26.284Z",
+    "last_updated": "2026-10-19T14:51:41.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
