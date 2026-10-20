@@ -138,7 +138,7 @@
                 "open_issues": 12,
                 "owner": "alinlab",
                 "repo": "CSI",
-                "stars": 285,
+                "stars": 284,
                 "topics": [
                   "anomaly-detection",
                   "contrastive-learning",
@@ -398,7 +398,7 @@
                 "open_issues": 12,
                 "owner": "alinlab",
                 "repo": "CSI",
-                "stars": 285,
+                "stars": 284,
                 "topics": [
                   "anomaly-detection",
                   "contrastive-learning",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T14:51:41.574Z",
+    "last_updated": "2026-10-20T12:51:08.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
@@ -691,7 +691,7 @@
       "open_issues": 10,
       "owner": "hoya012",
       "repo": "awesome-anomaly-detection",
-      "stars": 2917,
+      "stars": 2918,
       "topics": [
         "anomaly",
         "anomaly-detection",
