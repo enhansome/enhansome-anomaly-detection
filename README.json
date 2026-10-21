@@ -164,7 +164,7 @@
                 "open_issues": 3,
                 "owner": "hendrycks",
                 "repo": "ss-ood",
-                "stars": 270,
+                "stars": 269,
                 "topics": [
                   "ml-safety",
                   "out-of-distribution-detection",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:51:08.776Z",
+    "last_updated": "2026-10-21T13:03:49.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
@@ -691,7 +691,7 @@
       "open_issues": 10,
       "owner": "hoya012",
       "repo": "awesome-anomaly-detection",
-      "stars": 2918,
+      "stars": 2919,
       "topics": [
         "anomaly",
         "anomaly-detection",
