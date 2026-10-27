@@ -62,7 +62,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 ## Video-level anomaly detection
 
-* Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **\[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM) ⭐ 351 | 🐛 43 | 🌐 Python | 📅 2025-10-29
+* Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **\[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM) ⭐ 352 | 🐛 43 | 🌐 Python | 📅 2025-10-29
 * Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **\[ACM MM' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11988.pdf) | [`[code]`](https://github.com/yuguangnudt/VEC_VAD) ⭐ 97 | 🐛 9 | 🌐 Python | 📅 2023-03-24
 * Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | **\[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
 * Real-world Anomaly Detection in Surveillance Videos | **\[arXiv' 18]** | [`[pdf]`](https://arxiv.org/abs/1801.04264) [`[project page]`](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/)
@@ -142,7 +142,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 * CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **\[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI) ⭐ 284 | 🐛 12 | 🌐 Python | 📅 2023-10-19
 * SSD: A Unified Framework for Self-Supervised Outlier Detection | **\[ICLR' 21]**  [`[pdf]`](https://openreview.net/forum?id=v5gjXpmR8J) | [`[code]`](https://github.com/inspire-group/SSD) ⭐ 138 | 🐛 2 | 🌐 Python | 📅 2021-07-16
 * Why Normalizing Flows Fail to Detect Out-of-Distribution Data | **\[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2006.08545.pdf) | [`[code]`](https://github.com/PolinaKirichenko/flows_ood) ⭐ 87 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2021-11-02
-* Outlier Exposure with Confidence Control for Out-of-Distribution Detection | **\[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.03509v2) [`[code]`](https://github.com/nazim1021/OOD-detection-using-OECC) ⭐ 70 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-03-13
+* Outlier Exposure with Confidence Control for Out-of-Distribution Detection | **\[arXiv' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.03509v2) [`[code]`](https://github.com/nazim1021/OOD-detection-using-OECC) ⭐ 71 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-03-13
 * Outlier Detection in Contingency Tables Using Decomposable Graphical Models | **\[SJS' 19]** |  [`[pdf]`](https://onlinelibrary.wiley.com/doi/epdf/10.1111/sjos.12407) [`[code]`](https://github.com/mlindsk/molic) ⭐ 6 | 🐛 0 | 🌐 R | 📅 2022-03-04
 * A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks  | **\[ICLR' 17]** | [`[pdf]`](https://arxiv.org/pdf/1610.02136.pdf)
 * \[**ODIN**] Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks  | **\[ICLR' 18]** | [`[pdf]`](https://arxiv.org/pdf/1706.02690.pdf)
@@ -210,4 +210,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
