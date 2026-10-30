@@ -323,7 +323,7 @@
                 "open_issues": 5,
                 "owner": "tianyu0207",
                 "repo": "IGD",
-                "stars": 69,
+                "stars": 67,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:33:50.887Z",
+    "last_updated": "2026-10-30T14:26:17.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
