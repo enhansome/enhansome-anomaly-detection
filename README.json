@@ -302,7 +302,7 @@
                 "open_issues": 10,
                 "owner": "rohban-lab",
                 "repo": "Knowledge_Distillation_AD",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:31:20.409Z"
@@ -531,7 +531,7 @@
                 "open_issues": 26,
                 "owner": "xiahaifeng1995",
                 "repo": "PaDiM-Anomaly-Detection-Localization-master",
-                "stars": 491,
+                "stars": 492,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-localization",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T17:19:39.121Z",
+    "last_updated": "2026-11-03T15:24:25.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
