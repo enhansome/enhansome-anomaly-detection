@@ -1,6 +1,6 @@
 # awesome anomaly detection with stars
 
-A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) ⭐ 128 | 🐛 2 | 📅 2020-09-05 and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,164 | 🐛 2 | 📅 2024-06-11.
+A curated list of awesome anomaly detection resources. Inspired by [`awesome-architecture-search`](https://github.com/sdukshis/awesome-ml) ⭐ 128 | 🐛 2 | 📅 2020-09-05 and [`awesome-automl`](https://github.com/hibayesian/awesome-automl-papers) ⭐ 4,165 | 🐛 2 | 📅 2024-06-11.
 
 *Last updated: 2021/11/22*
 
@@ -62,7 +62,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 ## Video-level anomaly detection
 
-* Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **\[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM) ⭐ 352 | 🐛 43 | 🌐 Python | 📅 2025-10-29
+* Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **\[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM) ⭐ 353 | 🐛 43 | 🌐 Python | 📅 2025-10-29
 * Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **\[ACM MM' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11988.pdf) | [`[code]`](https://github.com/yuguangnudt/VEC_VAD) ⭐ 97 | 🐛 9 | 🌐 Python | 📅 2023-03-24
 * Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | **\[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
 * Real-world Anomaly Detection in Surveillance Videos | **\[arXiv' 18]** | [`[pdf]`](https://arxiv.org/abs/1801.04264) [`[project page]`](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/)
@@ -88,7 +88,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 * CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | **\[NeurIPS' 20]** |  [`[pdf]`](https://arxiv.org/pdf/2007.08176.pdf) | [`[code]`](https://github.com/alinlab/CSI) ⭐ 284 | 🐛 12 | 🌐 Python | 📅 2023-10-19
 * Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty | **\[NeurIPS' 19]** |  [`[pdf]`](https://arxiv.org/abs/1906.12340) [`[code]`](https://github.com/hendrycks/ss-ood) ⭐ 269 | 🐛 3 | 🌐 Python | 📅 2021-04-29
-* \[**ALOCC**]Adversarially Learned One-Class Classifier for Novelty Detection  | **\[CVPR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.09088.pdf) [`[code]`](https://github.com/khalooei/ALOCC-CVPR2018) ⭐ 225 | 🐛 0 | 🌐 Python | 📅 2021-01-15
+* \[**ALOCC**]Adversarially Learned One-Class Classifier for Novelty Detection  | **\[CVPR' 18]** |  [`[pdf]`](https://arxiv.org/pdf/1802.09088.pdf) [`[code]`](https://github.com/khalooei/ALOCC-CVPR2018) ⭐ 226 | 🐛 0 | 🌐 Python | 📅 2021-01-15
 * Learning Deep Features for One-Class Classification | **\[arXiv' 18]** |   [`[pdf]`](https://arxiv.org/pdf/1801.05365.pdf) [`[code]`](https://github.com/PramuPerera/DeepOneClass) ⭐ 196 | 🐛 5 | 🌐 Python | 📅 2019-03-26
 * Generative Probabilistic Novelty Detection with Adversarial Autoencoders | **\[NIPS' 18]** |  [`[pdf]`](http://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders.pdf) [`[code]`](https://github.com/podgorskiy/GPND) ⭐ 131 | 🐛 7 | 🌐 Python | 📅 2020-12-07
 * Modeling the distribution of normal data in pre-trained deep features for anomaly detection | **\[ICPR' 20]** |  [`[pdf]`](https://arxiv.org/abs/2005.14140) | [`[code]`](https://github.com/ORippler/gaussian-ad-mvtec) ⚠️ Archived
@@ -210,4 +210,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
