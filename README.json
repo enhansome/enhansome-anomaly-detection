@@ -80,7 +80,7 @@
             "open_issues": 43,
             "owner": "tianyu0207",
             "repo": "RTFM",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -531,7 +531,7 @@
                 "open_issues": 26,
                 "owner": "xiahaifeng1995",
                 "repo": "PaDiM-Anomaly-Detection-Localization-master",
-                "stars": 492,
+                "stars": 493,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-localization",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T15:15:28.339Z",
+    "last_updated": "2026-11-07T14:16:30.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",
