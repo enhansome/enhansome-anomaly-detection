@@ -45,7 +45,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 ## Time-series anomaly detection **(need to survey more..)**
 
-* MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **\[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) | [`[code]`](https://github.com/bhatiasiddharth/MIDAS) ⭐ 777 | 🐛 3 | 🌐 C++ | 📅 2024-01-10
+* MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **\[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) | [`[code]`](https://github.com/bhatiasiddharth/MIDAS) ⭐ 778 | 🐛 3 | 🌐 C++ | 📅 2024-01-10
 * A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | **Under Review** | [`[code]`](https://github.com/KDD-OpenSource/DeepADoTS) ⭐ 601 | 🐛 13 | 🌐 Python | 📅 2026-04-13
 * Anomaly Detection of Time Series  | **\[Thesis' 10]** |[`[pdf]`](https://conservancy.umn.edu/bitstream/handle/11299/92985/Cheboli_Deepthi_May2010.pdf?sequence=1)
 * Long short term memory networks for anomaly detection in time series | **\[ESANN' 15]** |[`[pdf]`](https://www.researchgate.net/publication/304782562_Long_Short_Term_Memory_Networks_for_Anomaly_Detection_in_Time_Series)
@@ -170,7 +170,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 ### Unsupervised Anomaly Segmentation target
 
 * PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization  | **\[ICPR IML Workshop' 20]**| [`[pdf]`](https://arxiv.org/abs/2011.08785) | [`[code]`](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master) ⭐ 493 | 🐛 26 | 🌐 Python | 📅 2023-11-29
-* Sub-Image Anomaly Detection with Deep Pyramid Correspondences  |  **\[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2005.02357.pdf) | [`[code]`](https://github.com/byungjae89/SPADE-pytorch) ⭐ 255 | 🐛 20 | 🌐 Python | 📅 2022-12-27
+* Sub-Image Anomaly Detection with Deep Pyramid Correspondences  |  **\[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2005.02357.pdf) | [`[code]`](https://github.com/byungjae89/SPADE-pytorch) ⭐ 256 | 🐛 20 | 🌐 Python | 📅 2022-12-27
 * Patch SVDD, Patch-level SVDD for Anomaly Detection and Segmentation  | **\[arXiv' 20]** | [`[pdf]`](https://arxiv.org/pdf/2006.16067.pdf) | [`[code]`](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch) ⭐ 253 | 🐛 20 | 🌐 Python | 📅 2020-10-19
 * Explainable Deep One-Class Classification  | **\[ICLR' 21]**| [`[pdf]`](https://openreview.net/forum?id=A5VV3UyIQz) | [`[code]`](https://github.com/liznerski/fcdd) ⭐ 236 | 🐛 6 | 🌐 Python | 📅 2023-08-30
 * Unsupervised anomaly segmentation via deep feature reconstruction  | **\[Neurocomputing' 20]**| [`[pdf]`](https://www.sciencedirect.com/science/article/pii/S0925231220317951) | [`[code]`](https://github.com/YoungGod/DFR) ⭐ 99 | 🐛 9 | 🌐 Python | 📅 2022-07-04
@@ -210,4 +210,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
