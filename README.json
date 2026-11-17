@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "Stream-AD",
             "repo": "MIDAS",
-            "stars": 778,
+            "stars": 779,
             "topics": [
               "aaai2020",
               "anomaly-detection",
@@ -80,7 +80,7 @@
             "open_issues": 43,
             "owner": "tianyu0207",
             "repo": "RTFM",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -679,7 +679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T17:15:57.209Z",
+    "last_updated": "2026-11-17T16:59:16.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome anomaly detection resources",

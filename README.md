@@ -45,7 +45,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 ## Time-series anomaly detection **(need to survey more..)**
 
-* MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **\[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) | [`[code]`](https://github.com/bhatiasiddharth/MIDAS) ⭐ 778 | 🐛 3 | 🌐 C++ | 📅 2024-01-10
+* MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams  | **\[AAAI' 20]** |  [`[pdf]`](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) | [`[code]`](https://github.com/bhatiasiddharth/MIDAS) ⭐ 779 | 🐛 3 | 🌐 C++ | 📅 2024-01-10
 * A Systematic Evaluation of Deep Anomaly Detection Methods for Time Series | **Under Review** | [`[code]`](https://github.com/KDD-OpenSource/DeepADoTS) ⭐ 601 | 🐛 13 | 🌐 Python | 📅 2026-04-13
 * Anomaly Detection of Time Series  | **\[Thesis' 10]** |[`[pdf]`](https://conservancy.umn.edu/bitstream/handle/11299/92985/Cheboli_Deepthi_May2010.pdf?sequence=1)
 * Long short term memory networks for anomaly detection in time series | **\[ESANN' 15]** |[`[pdf]`](https://www.researchgate.net/publication/304782562_Long_Short_Term_Memory_Networks_for_Anomaly_Detection_in_Time_Series)
@@ -62,7 +62,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 
 ## Video-level anomaly detection
 
-* Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **\[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM) ⭐ 354 | 🐛 43 | 🌐 Python | 📅 2025-10-29
+* Weakly-supervised Video Anomaly Detection with Robust Temporal Feature Magnitude Learning | **\[ICCV' 21]** | [`[pdf]`](https://arxiv.org/pdf/2101.10030.pdf) | [`[code]`](https://github.com/tianyu0207/RTFM) ⭐ 355 | 🐛 43 | 🌐 Python | 📅 2025-10-29
 * Cloze Test Helps: Effective Video Anomaly Detection via Learning to Complete Video Events | **\[ACM MM' 20]** | [`[pdf]`](https://arxiv.org/pdf/2008.11988.pdf) | [`[code]`](https://github.com/yuguangnudt/VEC_VAD) ⭐ 97 | 🐛 9 | 🌐 Python | 📅 2023-03-24
 * Abnormal Event Detection in Videos using Spatiotemporal Autoencoder | **\[ISNN' 17]** | [`[pdf]`](https://arxiv.org/pdf/1701.01546.pdf)
 * Real-world Anomaly Detection in Surveillance Videos | **\[arXiv' 18]** | [`[pdf]`](https://arxiv.org/abs/1801.04264) [`[project page]`](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/)
@@ -210,4 +210,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
